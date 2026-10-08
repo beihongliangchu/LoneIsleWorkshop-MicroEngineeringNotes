@@ -42,7 +42,7 @@
 ================================================================
 【用法 A】导入 .mrpack —— 推荐，最省事
   用 Prism Launcher / MultiMC / Modrinth App / HMCL 的「导入整合包」，
-  选择 Lone-Isle-Works-1.21.1-NeoForge.mrpack，启动器会自动装好 NeoForge、
+  选择 LoneIsleWorkshop-MicroEngineeringNotes-1.21.1.mrpack，启动器会自动装好 NeoForge、
   下载全部 MOD 并逐个校验哈希。
 
 【用法 B】双击 一键下载MOD.bat
@@ -232,7 +232,7 @@ FTB 官方只把模组发布在 maven.ftb.dev，不上 Modrinth。所以这 6 �
 ================================================================
 十一、文件说明
 ================================================================
-  Lone-Isle-Works-1.21.1-NeoForge.mrpack   可直接导入的整合包
+  LoneIsleWorkshop-MicroEngineeringNotes-1.21.1.mrpack   可直接导入的整合包
   modrinth.index.json                 整合包索引，含每个 MOD 的下载地址与哈希
   packwiz\                            packwiz 格式包
   一键下载MOD.bat                      本地批量下载器
