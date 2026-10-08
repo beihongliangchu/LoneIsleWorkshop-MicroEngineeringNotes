@@ -17,7 +17,7 @@
 
 ### PCL2
 
-1. 下载 `孤岛工坊-微工小记-1.21.1-NeoForge.mrpack`
+1. 下载 [`Lone-Isle-Works-1.21.1-NeoForge.mrpack`](https://github.com/beihongliangchu/lone-isle-works-micro-engineering-notes/releases/download/v1.18.0/Lone-Isle-Works-1.21.1-NeoForge.mrpack)
 2. 打开 PCL2 → **版本设置** → 右上角 **安装整合包**
 3. 选中刚才那个 `.mrpack` 文件，确认
 4. 装完直接启动即可
@@ -117,7 +117,7 @@
 
 | 文件 | 给谁用 | 说明 |
 |---|---|---|
-| `孤岛工坊-微工小记-1.21.1-NeoForge.mrpack` | **绝大多数人** | Modrinth 整合包格式，PCL2 / HMCL / Prism / Modrinth App 都能直接导入 |
+| [`Lone-Isle-Works-1.21.1-NeoForge.mrpack`](https://github.com/beihongliangchu/lone-isle-works-micro-engineering-notes/releases/download/v1.18.0/Lone-Isle-Works-1.21.1-NeoForge.mrpack) | **绝大多数人** | Modrinth 整合包格式，PCL2 / HMCL / Prism / Modrinth App 都能直接导入 |
 | `modrinth.index.json` | 启动器 | `.mrpack` 的核心清单，一般不用手动打开 |
 | `一键下载MOD.bat` | 手动安装的人 | 双击后按清单把 84 个模组下到 `mods` 文件夹 |
 | `MOD清单.txt` | 想核对的人 | 全部模组的名称、版本、来源一览 |
